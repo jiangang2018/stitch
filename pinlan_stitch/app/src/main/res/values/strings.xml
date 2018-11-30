@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">品览stitch</string>
+    <string name="action_load_image">Load Image</string>
+    <string name="title_activity_stitching">品览stitch</string>
+    <string name="title_activity_home">品览stitch</string>
+</resources>
